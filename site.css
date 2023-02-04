@@ -79,7 +79,8 @@ nav {
     text-align: left;
     top: 100%;
     left: 0;
-    background: var(--background);
+    /* background: var(--background); */
+    background: hsl(0 0% 100% / 0.1);
     width: 100%;
     transform: scale(1, 0);
     transform-origin: top;
